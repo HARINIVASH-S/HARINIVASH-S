@@ -1,12 +1,25 @@
 <!-- ================= HEADER ================= -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:00F2FE,50:4FACFE,100:00F2FE&height=200&section=header&text=HARINIVASH%20S&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🚀%20Python%20Developer%20|%20🌐%20Web%20Developer%20|%20📊%20Tech%20Enthusiast&descAlignY=55&descSize=16"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:E3F2FD,50:BBDEFB,100:E3F2FD&height=200&section=header&text=HARINIVASH%20S&fontSize=60&fontColor=0D47A1&animation=fadeIn&fontAlignY=35&desc=🚀%20Python%20Developer%20|%20🌐%20Web%20Developer%20|%20📊%20Tech%20Enthusiast&descAlignY=55&descSize=16"/>
-  <img src="https://capsule-render.vercel.app/api?type=venom"/>
+  <!-- Dark Mode -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&height=200&section=header&color=0:00F2FE,50:4FACFE,100:00F2FE&text=HARINIVASH%20S&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=🚀%20Python%20Developer%20|%20🌐%20Web%20Developer%20|%20📊%20Tech%20Enthusiast&descAlignY=55&descSize=16"
+  />
+
+  <!-- Light Mode -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&height=200&section=header&color=0:E3F2FD,50:BBDEFB,100:E3F2FD&text=HARINIVASH%20S&fontSize=60&fontColor=0D47A1&animation=fadeIn&fontAlignY=35&desc=🚀%20Python%20Developer%20|%20🌐%20Web%20Developer%20|%20📊%20Tech%20Enthusiast&descAlignY=55&descSize=16"
+  />
+
+  <!-- Fallback (MANDATORY FOR GITHUB) -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=200&section=header&color=0:4FACFE,100:00F2FE&text=HARINIVASH%20S&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=🚀%20Python%20Developer%20|%20🌐%20Web%20Developer%20|%20📊%20Tech%20Enthusiast&descAlignY=55&descSize=16"
+  />
 </picture>
+
+<!-- ================= TYPING SVG ================= -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=500&color=4FACFE&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Interactive+Web+Apps;Python+Programmer;Creative+Problem+Solver" />
