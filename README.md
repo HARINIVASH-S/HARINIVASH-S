@@ -44,10 +44,7 @@ I believe in **learning by building**, writing **clean code**, and solving **rea
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HARINIVASH-S&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARINIVASH-S&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HARINIVASH-S&theme=tokyonight&hide_border=true"/>
