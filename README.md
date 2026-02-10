@@ -90,7 +90,7 @@ I believe in **learning by building**, writing **clean code**, and solving **rea
   <a href="mailto:harinivash@example.com">
     <img src="https://img.shields.io/badge/Gmail-4FACFE?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/harinivash-s">
+  <a href="https://www.linkedin.com/in/harinivash-s-976a25303/">
     <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </div>
