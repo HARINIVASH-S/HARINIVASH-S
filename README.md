@@ -4,18 +4,18 @@
   <!-- Dark Mode -->
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&height=200&section=header&color=0:00F2FE,50:4FACFE,100:00F2FE&text=HARINIVASH%20S&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=🚀%20Python%20Developer%20|%20🌐%20Web%20Developer%20|%20📊%20Tech%20Enthusiast&descAlignY=55&descSize=16"
+    srcset="https://capsule-render.vercel.app/api?type=venom&height=200&section=header&color=0:00F2FE,50:4FACFE,100:00F2FE&text=HARINIVASH%20S&fontSize=60&fontColor=FFFFFF&desc=🚀%20Python%20Developer%20|%20🌐%20Web%20Developer%20|%20📊%20Tech%20Enthusiast&descSize=16&descAlignY=55&fontAlignY=35&animation=fadeIn"
   />
 
-  <!-- Light Mode -->
+  <!-- Light Mode (HIGH CONTRAST FIX) -->
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&height=200&section=header&color=0:E3F2FD,50:BBDEFB,100:E3F2FD&text=HARINIVASH%20S&fontSize=60&fontColor=0D47A1&animation=fadeIn&fontAlignY=35&desc=🚀%20Python%20Developer%20|%20🌐%20Web%20Developer%20|%20📊%20Tech%20Enthusiast&descAlignY=55&descSize=16"
+    srcset="https://capsule-render.vercel.app/api?type=venom&height=200&section=header&color=0:EAF4FF,50:D6E9FF,100:EAF4FF&text=HARINIVASH%20S&fontSize=60&fontColor=0B2545&desc=🚀%20Python%20Developer%20|%20🌐%20Web%20Developer%20|%20📊%20Tech%20Enthusiast&descColor=34495E&descSize=16&descAlignY=55&fontAlignY=35&animation=fadeIn"
   />
 
-  <!-- Fallback (MANDATORY FOR GITHUB) -->
+  <!-- Fallback -->
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=200&section=header&color=0:4FACFE,100:00F2FE&text=HARINIVASH%20S&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=🚀%20Python%20Developer%20|%20🌐%20Web%20Developer%20|%20📊%20Tech%20Enthusiast&descAlignY=55&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=venom&height=200&section=header&color=0:4FACFE,100:00F2FE&text=HARINIVASH%20S&fontSize=60&fontColor=FFFFFF&desc=🚀%20Python%20Developer%20|%20🌐%20Web%20Developer%20|%20📊%20Tech%20Enthusiast&descSize=16&descAlignY=55&fontAlignY=35&animation=fadeIn"
   />
 </picture>
 
@@ -28,31 +28,10 @@
 <!-- ================= BADGES ================= -->
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🎓_Degree-B.E_Student-4FACFE?style=for-the-badge&labelColor=black"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/🎓_Degree-B.E_Student-1E88E5?style=for-the-badge&labelColor=white"/>
-  <img src="https://img.shields.io/badge/🎓_Degree-B.E_Student-1E88E5?style=for-the-badge&labelColor=white"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/💻_Focus-Web_Development-00FFFF?style=for-the-badge&labelColor=black"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/💻_Focus-Web_Development-1976D2?style=for-the-badge&labelColor=white"/>
-  <img src="https://img.shields.io/badge/💻_Focus-Web_Development-1976D2?style=for-the-badge&labelColor=white"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🇮🇳_Living-India-FF6600?style=for-the-badge&labelColor=black"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/🇮🇳_Living-India-F57C00?style=for-the-badge&labelColor=white"/>
-  <img src="https://img.shields.io/badge/🇮🇳_Living-India-F57C00?style=for-the-badge&labelColor=white"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🚀_Status-Learning_&_Building-00FF00?style=for-the-badge&labelColor=black"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/🚀_Status-Learning_&_Building-2E7D32?style=for-the-badge&labelColor=white"/>
-  <img src="https://img.shields.io/badge/🚀_Status-Learning_&_Building-2E7D32?style=for-the-badge&labelColor=white"/>
-</picture>
-
+  <img src="https://img.shields.io/badge/🎓_Degree-B.E_Student-4FACFE?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/💻_Focus-Web_Development-00FFFF?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/🇮🇳_Living-India-FF6600?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/🚀_Status-Learning_&_Building-00FF00?style=for-the-badge&labelColor=black" />
 </div>
 
 <br/>
@@ -93,11 +72,11 @@ I believe in **learning by building**, writing **clean code**, and solving **rea
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HARINIVASH-S&theme=tokyonight&hide_border=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=HARINIVASH-S&theme=default&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=HARINIVASH-S&theme=default&hide_border=true"/>
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HARINIVASH-S&theme=tokyonight&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=HARINIVASH-S&theme=default&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=HARINIVASH-S&theme=default&hide_border=true"/>
+  </picture>
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -153,19 +132,18 @@ I believe in **learning by building**, writing **clean code**, and solving **rea
 <!-- ================= QUOTE ================= -->
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+  </picture>
 </div>
 
 <br/>
 
 <!-- ================= FOOTER ================= -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=150&section=footer"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E3F2FD,100:BBDEFB&height=150&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving"/>
-</picture>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=150&section=footer"
+/>
