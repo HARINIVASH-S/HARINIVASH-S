@@ -40,22 +40,7 @@ I believe in **learning by building**, writing **clean code**, and solving **rea
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2 align="center">🔥 Tech Arsenal 🔥</h2>
 
-<div align="center">
-
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js"/>
-
-### 🎨 Web Frontend
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind"/>
-
-### 🛠 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux"/>
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
