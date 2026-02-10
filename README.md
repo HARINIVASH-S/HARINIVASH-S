@@ -58,7 +58,7 @@ I believe in **learning by building**, writing **clean code**, and solving **rea
 <h2 align="center">⚡ Competitive Programming</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/harinivash-s-976a25303/">
+  <a href="https://leetcode.com/u/jbt4AyoybI/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFD700?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.hackerrank.com/profile/HARINIVASH-S">
