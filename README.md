@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/🎓_Degree-B.E_Student-4FACFE?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/💻_Focus-Web_Development-00FFFF?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/💻_Focus-python_Development-00FFFF?style=for-the-badge&labelColor=black" />
   <img src="https://img.shields.io/badge/🇮🇳_Living-India-FF6600?style=for-the-badge&labelColor=black" />
   <img src="https://img.shields.io/badge/🚀_Status-Learning_&_Building-00FF00?style=for-the-badge&labelColor=black" />
 </div>
